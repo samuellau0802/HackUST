@@ -19,7 +19,7 @@ https://reports.weforum.org/travel-and-tourism-competitiveness-report-2019/overa
 The data of Travel & Tourism Competitiveness Index with modification. It will be imported to the py file.
 
 ### 3. reference_hospitalization_all_locs.csv
-The prediction of the infected data of each country. It will be imported to the py file.
+The data of the predicted infection in each country. It will be imported to the py file.
 
 ### 4. covid.json
 It is the output of the program. The json file will be stored in a database. 
